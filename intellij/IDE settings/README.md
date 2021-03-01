@@ -1,4 +1,4 @@
-#IntelliJ Preference Setting
+# IntelliJ Preference Setting
 ---
 
 ### IDE Information
