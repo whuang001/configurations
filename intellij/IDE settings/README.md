@@ -18,3 +18,4 @@
 
 ### Plugins:
 - One Dark Theme
+- ideaVim
