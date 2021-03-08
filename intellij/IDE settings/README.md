@@ -19,3 +19,4 @@
 ### Plugins:
 - One Dark Theme
 - ideaVim
+  - [How to enable key repeating](https://stackoverflow.com/questions/39606031/intellij-key-repeating-idea-vim)
