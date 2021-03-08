@@ -10,7 +10,7 @@
   - Background
     - Color & Effects
       - Blur: 100%
-      - Opacity: 75%
+      - Opacity: 85%
   - Cursor
     - Style: Vertical Bar
 - Window
