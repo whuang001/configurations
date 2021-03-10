@@ -15,8 +15,7 @@
     - Reformat code: enable
     - Rearrange code: enable
     - Optimize code: enable
-- Vim Emulation
-  - ^J: IDE
+- Vim Emulation: set all key bind to vim.
 
 ### Plugins:
 - One Dark Theme
