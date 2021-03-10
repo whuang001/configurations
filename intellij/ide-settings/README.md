@@ -15,6 +15,8 @@
     - Reformat code: enable
     - Rearrange code: enable
     - Optimize code: enable
+- Vim Emulation
+  - ^J: IDE
 
 ### Plugins:
 - One Dark Theme
