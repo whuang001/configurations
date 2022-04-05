@@ -90,7 +90,7 @@ antigen use prezto
 # default bundles
 antigen bundle rupa/z z.sh
 antigen bundle Vifon/deer
-antigen bundle zdharma/fast-syntax-highlighting
+antigen bundle zsh-users/zsh-syntax-highlighting
 # antigen bundle zsh-users/zsh-autosuggestions
 
 antigen bundle willghatch/zsh-cdr
@@ -137,9 +137,6 @@ ZSH_HIGHLIGHT_STYLES[assign]=none
 [ -f "$HOME/.local/etc/local.zsh" ] && source "$HOME/.local/etc/local.zsh"
 
 antigen apply
-
-# work around: fast syntax highlighting may crash zsh without this
-FAST_HIGHLIGHT[chroma-git]="chroma/-ogit.ch"
 
 # options
 unsetopt correct_all
